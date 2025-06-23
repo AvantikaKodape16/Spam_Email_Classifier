@@ -1,4 +1,4 @@
-# 📧 Spam Email Classifier (NLP)
+## 📧 Spam Email Classifier (NLP)
 
 This project builds an ML model to classify emails as Spam or Ham (Not Spam) using NLP techniques.
 
